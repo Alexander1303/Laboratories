@@ -1,1 +1,1 @@
-# OS-intro
+# Laboratories
